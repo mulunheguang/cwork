@@ -53,6 +53,5 @@ int main() {
     // 计算叶子节点数
     int leaves = countLeaves(root);
     printf("二叉树的叶子节点数为: %d\n", leaves);
-int a;
     return 0;
 }
